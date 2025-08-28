@@ -18,5 +18,5 @@ int main(int argc, char *argv[]){
     }
     fclose(fptr);
     printf("\n");
-    return 1;
+    return 0;
 }
