@@ -16,6 +16,7 @@ The structure is identical to the questionnaire repo:
 - [`wcat`](./initial-utilities/wcat/wcat.c) – print the contents of a file
 - [`wgrep`](./initial-utilities/wgrep/wgrep.c) – search for a string in a file or stdin
 - [`wzip`](./initial-utilities/wzip/wzip.c) – basic run-length encoding
+- [`wunzip`](./initial-utilities/wzip/wzip.c) - reversing wzip
 
 More projects will be added as I progress through the book.
 
