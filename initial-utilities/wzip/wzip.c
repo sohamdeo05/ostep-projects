@@ -2,7 +2,6 @@
 
 //size_t fwrite(const void ptr[restrict .size * .nmemb],size_t size, size_t nmemb, FILE *restrict stream);
 
-
 int main(int argc, char* argv[]){
     if (argc < 2) {
         printf("wzip: file1 [file2 ...]\n");
